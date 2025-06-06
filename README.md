@@ -74,11 +74,11 @@ O projeto seguiu um pipeline estruturado de desenvolvimento de Machine Learning,
 
 ## Resultados e Conclusões
 * **RandomForestRegressor:**
-    * R² Médio (Validação Cruzada): 0.7724714237154728
-    * MAE Médio (Validação Cruzada): 5.822189682445062
+    * R² Médio (Validação Cruzada): 0.7729765081714819
+    * MAE Médio (Validação Cruzada): 5.809657864582609
 * **LinearRegression:**
-    * R² Médio (Validação Cruzada): 0.5114922189755741
-    * MAE Médio (Validação Cruzada): 9.319185240685417
+    * R² Médio (Validação Cruzada): 0.5110772419806521
+    * MAE Médio (Validação Cruzada): 9.303152018681827
 
 O modelo de **Random Forest** demonstrou maior capacidade preditiva para este conjunto de dados, apresentando resultados mais robustos na validação cruzada. A interpretabilidade do mesmo forneceu insights valiosos sobre a influência de cada componente na resistência do concreto.
 
